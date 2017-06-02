@@ -16,7 +16,7 @@ public class AtUnitExample3 {
 		System.out.println("This is methodTwo");
 		return 2;
 	}
-	@TestObjectCreate static AtUnitExample3 create(){
+	/*@TestObjectCreate static AtUnitExample3 create(){
 		return new AtUnitExample3(47);
-	}
+	}*/
 }
